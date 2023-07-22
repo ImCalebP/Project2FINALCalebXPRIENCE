@@ -11,7 +11,7 @@ const Header = () => {
       <header>
         <div className="container flex">
           <div className="logo">
-            <img src="../images/logo.png" alt="" className="small-logo" />
+            <img src="Project2FINALCalebXPRIENCE/logo.png" alt="" className="small-logo" />
           </div>
           <div className="language-button">
             <span className="language-text">Select Language</span>
