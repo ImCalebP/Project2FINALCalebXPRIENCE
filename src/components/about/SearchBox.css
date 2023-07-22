@@ -1,0 +1,54 @@
+.SearchBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 14px;
+  border: none;
+  background: none;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  overflow: hidden;
+  transition: 0.5s;
+  padding: 4px 8px;
+  margin: 4px;
+}
+
+button span {
+  position: relative;
+  z-index: 1;
+}
+
+button::before,
+button::after {
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: rgb(226, 125, 43);
+  display: block;
+  transition: 0.5s;
+}
+
+button::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+button::after {
+  position: absolute;
+  bottom: 50%;
+  left: 0;
+  transform: translateY(50%);
+}
+
+button:hover::after,
+button:hover::before {
+  width: 100%;
+}
