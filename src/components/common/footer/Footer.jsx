@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='container'>
           <div className='box'>
             <div className='logo'>
-              <img src='Project2FINALCalebXPRIENCE/images/logo-light.png' alt='' />
+              <img src='./logo-light.png' alt='' />
               <h2>Come experience Jesus</h2>
               
 
