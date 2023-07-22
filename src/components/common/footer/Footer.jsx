@@ -11,7 +11,7 @@ const Footer = () => {
         <div className='container'>
           <div className='box'>
             <div className='logo'>
-              <img src='./logo-light.png' alt='' />
+              <img src='images/logo-light.png' alt='T logo' />
               <h2>Come experience Jesus</h2>
               
 
