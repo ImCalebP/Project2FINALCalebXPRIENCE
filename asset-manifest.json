@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Project2FINALCalebXPRIENCE/static/css/main.de861e41.css",
+    "main.js": "/Project2FINALCalebXPRIENCE/static/js/main.5039a1c5.js",
+    "static/media/about.png": "/Project2FINALCalebXPRIENCE/static/media/about.9363abafb2d924376655.png",
+    "static/media/banner.png": "/Project2FINALCalebXPRIENCE/static/media/banner.9363abafb2d924376655.png",
+    "static/media/pricing.png": "/Project2FINALCalebXPRIENCE/static/media/pricing.9363abafb2d924376655.png",
+    "static/media/services.png": "/Project2FINALCalebXPRIENCE/static/media/services.9363abafb2d924376655.png",
+    "index.html": "/Project2FINALCalebXPRIENCE/index.html",
+    "main.de861e41.css.map": "/Project2FINALCalebXPRIENCE/static/css/main.de861e41.css.map",
+    "main.5039a1c5.js.map": "/Project2FINALCalebXPRIENCE/static/js/main.5039a1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de861e41.css",
+    "static/js/main.5039a1c5.js"
+  ]
+}
